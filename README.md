@@ -36,6 +36,21 @@ Designing the data required for this project
 
 ## Player's Sample Data:
 
+| Player_ID | Team_ID | User_ID | Player_Name | DateTime_Invited | DateTime_Accepted | DateTime_Rejected | DateTime_Deleted |
+|-----------|---------|---------|-------------|------------------|-------------------|-------------------|------------------|
+| 911       | sun123  | 12346   | Ravi        | 9/9/2020         | 9/10/2020         |                   |                  |
+| 912       | sun123  | 56536   | Anusha      | 9/9/2020         |                   | 9/13/2020         |                  |
+| 913       | sun123  | 53562   | Sandy       | 9/9/2020         | 9/10/2020         |                   |                  |
+| 914       | cha2020 | 87688   | Devi        | 9/10/2020        | 9/12/2020         |                   |                  |
+| 915       | cha2020 | 67783   | Tarun       | 9/10/2020        | 9/10/2020         |                   |                  |
+| 916       | cha2020 | 66773   | Aswin       | 9/10/2020        |                   | 9/10/2020         |                  |
+| 917       | sun123  | 36737   | Raghu       | 9/9/2020         | 9/10/2020         |                   |                  |
+| 918       | cha2020 | 35627   | Eswar       | 9/10/2020        | 9/11/2020         |                   |                  |
+| 919       | sun123  | 65677   | Dhinkar     | 9/9/2020         |                   | 9/11/2020         |                  |
+| 920       | cha2020 | 56268   | Paule       | 9/10/2020        | 9/12/2020         |                   |                  |
+| 921       | cha2020 | 63772   | Nikki       | 9/10/2020        |                   | 9/12/2020         | 9/13/2020        |
+| 922       | sun123  | 67790   | Bhuvan      | 9/10/2020        | 9/11/2020         |                   |                  |
+
 ## Team Sample Data:
 
 | Team_ID | Team_Name        | Creator_User_ID | DateTime_Created | DateTime_Last_Edited |
