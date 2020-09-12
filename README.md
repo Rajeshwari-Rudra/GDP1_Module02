@@ -19,6 +19,17 @@ Designing the data required for this project
 
 ![Entity Relationship Diagram 2](https://github.com/Rajeshwari-Rudra/GDP1_Module02/blob/master/Images/ERDiagram0.jpeg?raw=true)
 
+## Cardinality Relations:
+
+- A User is also a player though that person is on a team or not.
+- A team can have maximum of 4 players and minimum of one.
+- A player will belong to only one team at a time.
+- A user(huntmaster) can create any number of quests but all the quests are associated with only huntmaster.
+- A quest will have 4 locations but each clue is associated with only one quest.
+- A location will have 3 clues but each clue is associated with only one location.
+- A competition is comprised of quest and can be participated by many teams and each teams can participate in any competition that are open.
+- A player can score points from any number of locations and the same time one location can have many player scores.
+
 
 
 ## User Sample Data:
