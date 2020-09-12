@@ -99,23 +99,12 @@ Designing the data required for this project
 |         509 |      123 |         44.333304 |         -89.132027 |             35 |
 |         980 |      123 |         33.755783 |        -116.360066 |             40 |
 
-## Competition Sample data
-
-| Competition   Name 	| Creator User Id 	| Date Created 	| Start date time 	| End date time 	| Quest_Id 	|
-|-	|-	|-	|-	|-	|-	|
-| Avengers 	| akhil123@gmail.com 	| 9/10/2020 	| 9/11/2020 	| 9/18/2020 	| 115 	|
-| Baahubali 	| abhinav7234@gmail.com 	| 9/10/2020 	| 9/11/2020 	| 9/18/2020 	| 118 	|
-
-## Clues Sample Data:
-| Clue Id 	| Location Id 	| Clue sort Order 	| Clue string 	|
-|-	|-	|-	|-	|
-| 101 	| 666 	| 1 	| Clue1 	|
-| 102 	| 345 	| 2 	| Clue2 	|
-| 103 	| 234 	| 3 	| Clue3 	|
-| 104 	| 890 	| 4 	| Clue4 	|
-| 105 	| 776 	| 5 	| Clue5 	|
-| 106 	| 678 	| 6 	| Clue6 	|
-
-
-
+## CompetionTeam mapping data:
+| Competition_Id 	| Team_Id 	| datetime_Invited 	| datetime_Accepted 	| datetime_rejected 	|
+|---------------	|----------	|------------------ |------------------	  |------------------	  |
+|  	              |  	        |  	                |  	                  |  	                  |
+| 123 	          | sun123 	  | 9/11/2020 	      | 9/11/2020 	        |  	                  |
+| 123 	          | cha2020 	| 9/11/2020 	      |                   	|  	                  |
+| 312 	          | sun123 	  | 9/11/2020 	      | 9/11/2020 	        |  	                  |
+| 312 	          | cha2020 	| 9/11/2020 	      |  	                  |  	                  |
 
