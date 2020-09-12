@@ -69,10 +69,22 @@ Designing the data required for this project
 
 ## Quest Sample Data
 
-<img src="Images\Quest.png">
+| Quest ID | Quest Name | Creator User ID | Quest start location latitude | Quest start location longitude | Date Created | Date last accessed |
+|----------|------------|-----------------|-------------------------------|--------------------------------|--------------|--------------------|
+|      121 |    Mask on |            1121 |                     44.968046 |                     -94.420307 |    6/11/2020 |          6/11/2020 |
+|      123 |    Find me |            1122 |                     55.968046 |                     -64.420307 |   10/11/2020 |         13/11/2020 |
 
 
 ## Locations Sample data
 
-<img src="Images\Locations.png">
+| Location ID | Quest ID | Location Latitude | Location Longitude | Location value |
+|-------------|----------|-------------------|--------------------|----------------|
+|         666 |      121 |          44.33328 |         -89.132008 |             20 |
+|         345 |      121 |         33.755787 |        -116.359998 |             30 |
+|         234 |      121 |         33.844843 |         -116.54911 |             40 |
+|         890 |      121 |          44.92057 |          -93.44786 |             50 |
+|         776 |      123 |         44.240309 |         -91.493619 |             10 |
+|         678 |      123 |         44.968041 |         -94.419696 |             25 |
+|         509 |      123 |         44.333304 |         -89.132027 |             35 |
+|         980 |      123 |         33.755783 |        -116.360066 |             40 |
 
