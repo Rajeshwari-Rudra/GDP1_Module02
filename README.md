@@ -10,7 +10,7 @@ Designing the data required for this project
 | Puneeth Annam 	| S538293@nwmissouri.edu 	|
 | Ravichander Reddy Goli 	| S538386@nwmissouri.edu 	|
 ## Data Flow Chart:
-<img src="Images\Module02_dataFlow.png>
+<img src="Images\Module02_dataFlow.png">
 
 ## USER data
 
