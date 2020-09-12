@@ -66,3 +66,13 @@ Designing the data required for this project
 | sun123  | SunRisers        | 12346           | 9/9/2020         | 9/10/2020            |
 | cha2020 | RoyalChallengers | 67783           | 9/10/2020        | 9/10/2020            |
 |         |                  |                 |                  |                      |
+
+## Quest Sample Data
+
+<img src="Images\Quest.png">
+
+
+## Locations Sample data
+
+<img src="Images\Locations.png">
+
