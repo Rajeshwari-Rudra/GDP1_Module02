@@ -13,6 +13,14 @@ Designing the data required for this project
 ## Data Flow Chart:
 <img src="Images\Module02_dataFlow.png">
 
+## Samples of ER Diagram:
+
+![Entity Relationship Diagram 1](https://github.com/Rajeshwari-Rudra/GDP1_Module02/blob/master/Images/ModuleERDiagram.png?raw=true)
+
+![Entity Relationship Diagram 2](https://github.com/Rajeshwari-Rudra/GDP1_Module02/blob/master/Images/ERDiagram0.jpeg?raw=true)
+
+
+
 ## User Sample Data:
 
 | Email                  | Password     | UserID | Username  | date Created | date last accessed |
