@@ -69,10 +69,10 @@ Designing the data required for this project
 
 ## Quest Sample Data
 
-<img src="Images\Quest.png">
+<img src="Images\Quest.PNG">
 
 
 ## Locations Sample data
 
-<img src="Images\Locations.png">
+<img src="Images\Locations.PNG">
 
