@@ -9,7 +9,10 @@ Designing the data required for this project
 | Rajashekar Gande 	| S538099@nwmissouri.edu 	|
 | Puneeth Annam 	| S538293@nwmissouri.edu 	|
 | Ravichander Reddy Goli 	| S538386@nwmissouri.edu 	|
-# USER data
+## Data Flow Chart:
+<img src="Images\Module02_dataFlow.png>
+
+## USER data
 
 | Email                  | Password     | UserID | Username  | date Created | date last accessed |
 |------------------------|--------------|--------|-----------|--------------|--------------------|
