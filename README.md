@@ -9,10 +9,11 @@ Designing the data required for this project
 | Rajashekar Gande 	| S538099@nwmissouri.edu 	|
 | Puneeth Annam 	| S538293@nwmissouri.edu 	|
 | Ravichander Reddy Goli 	| S538386@nwmissouri.edu 	|
+
 ## Data Flow Chart:
 <img src="Images\Module02_dataFlow.png">
 
-## USER data
+## User Sample Data:
 
 | Email                  | Password     | UserID | Username  | date Created | date last accessed |
 |------------------------|--------------|--------|-----------|--------------|--------------------|
@@ -33,3 +34,12 @@ Designing the data required for this project
 | bonkerz@gmail.com      | bonkersuper  | 679882 | bonk342   | 9/8/2020     | 9/10/2020          |
 | falaf@gmail.com        | fala@12      | 672362 | fafa      | 9/8/2020     | 9/8/2020           |
 
+## Player's Sample Data:
+
+## Team Sample Data:
+
+| Team_ID | Team_Name        | Creator_User_ID | DateTime_Created | DateTime_Last_Edited |
+|---------|------------------|-----------------|------------------|----------------------|
+| sun123  | SunRisers        | 12346           | 9/9/2020         | 9/10/2020            |
+| cha2020 | RoyalChallengers | 67783           | 9/10/2020        | 9/10/2020            |
+|         |                  |                 |                  |                      |
