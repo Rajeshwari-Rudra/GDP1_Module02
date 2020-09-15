@@ -118,7 +118,7 @@ Designing the data required for this project
 | 106 	| 678 	| 6 	| Clue6 	|
 
 
-## CompetionTeam mapping data:
+## CompetitionTeam mapping data:
 
 | CompetitionId  	| TeamId  	| DateTimeInvited 	| DateTimeAccepted  	| DateTimeRejected 	  |
 |---------------	|----------	|------------------ |------------------	  |------------------	  |
