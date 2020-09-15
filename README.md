@@ -110,12 +110,12 @@ Designing the data required for this project
 
 | ClueId  	| LocationId 	 | ClueSortOrder   	 | ClueString   	|
 |-	|-	|-	|-	|
-| 101 	| 666 	| 1 	| Clue1 	|
-| 102 	| 345 	| 2 	| Clue2 	|
-| 103 	| 234 	| 3 	| Clue3 	|
-| 104 	| 890 	| 4 	| Clue4 	|
-| 105 	| 776 	| 5 	| Clue5 	|
-| 106 	| 678 	| 6 	| Clue6 	|
+| 101 	| 666 	| 1 	| All the world's wisdom can be found inside our college |
+| 102 	| 345 	| 2 	| All the subject knowledge will be developed by us daily so that it helps to build our future |
+| 103 	| 234 	| 3 	| We will be getting a chance to eat different variety of foods and gossiping with friends |
+| 104 	| 890 	| 4 	| All the International students meetings and gatherings takes place |
+| 105 	| 776 	| 5 	| The oldest site for any NCAA Division II school. It has capacity of 6,500 |
+| 106 	| 678 	| 6 	| The refreshment of body and mind through different forms of play |
 
 
 ## CompetitionTeam mapping data:
