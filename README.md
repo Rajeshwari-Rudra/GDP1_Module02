@@ -34,7 +34,7 @@ Designing the data required for this project
 
 ## User Sample Data:
 
-| Email                  | Password     | UserID | Username  | date Created | date last accessed |
+| Email                  | Password     | UserID | Username  | DateCreated  | DateLastAccessed   |
 |------------------------|--------------|--------|-----------|--------------|--------------------|
 | ravuluri@gmail.com     | ravi1432     | 12346  | ravi      | 9/8/2020     | 9/8/2020           |
 | Anushaa12@gmail.com    | anuravi      | 56536  | anu123    | 9/8/2020     | 9/8/2020           |
@@ -55,7 +55,7 @@ Designing the data required for this project
 
 ## Player's Sample Data:
 
-| Player_ID | Team_ID | User_ID | Player_Name | DateTime_Invited | DateTime_Accepted | DateTime_Rejected | DateTime_Deleted |
+| PlayerID  | TeamID  | UserID  | PlayerName  | DateTimeInvited  | DateTimeAccepted  | DateTimeRejected  | DateTimeDeleted  |
 |-----------|---------|---------|-------------|------------------|-------------------|-------------------|------------------|
 | 911       | sun123  | 12346   | Ravi        | 9/9/2020         | 9/10/2020         |                   |                  |
 | 912       | sun123  | 56536   | Anusha      | 9/9/2020         |                   | 9/13/2020         |                  |
@@ -72,7 +72,7 @@ Designing the data required for this project
 
 ## Team Sample Data:
 
-| Team_ID | Team_Name        | Creator_User_ID | DateTime_Created | DateTime_Last_Edited |
+| TeamID  | TeamName         |  CreatorUserID  | DateTimeCreated  |  DateTimeLastEdited  |
 |---------|------------------|-----------------|------------------|----------------------|
 | sun123  | SunRisers        | 12346           | 9/9/2020         | 9/10/2020            |
 | cha2020 | RoyalChallengers | 67783           | 9/10/2020        | 9/10/2020            |
@@ -80,7 +80,7 @@ Designing the data required for this project
 
 ## Quest Sample Data
 
-| Quest ID | Quest Name | Creator User ID | Quest start location latitude | Quest start location longitude | Date Created | Date last accessed |
+| QuestID  | QuestName  |  CreatorUserID  |  QuestStartLocationLatitude   |  QuestStartLocationLongitude   | DateCreated  |  DateLastAccessed  |
 |----------|------------|-----------------|-------------------------------|--------------------------------|--------------|--------------------|
 |      121 |    Mask on |            1121 |                     44.968046 |                     -94.420307 |    6/11/2020 |          6/11/2020 |
 |      123 |    Find me |            1122 |                     55.968046 |                     -64.420307 |   10/11/2020 |         13/11/2020 |
@@ -88,7 +88,7 @@ Designing the data required for this project
 
 ## Locations Sample data based on quests
 
-| Location ID | Quest ID | Location Latitude | Location Longitude | Location value |
+| LocationID  | QuestID  | LocationLatitude  | LocationLongitude  | LocationValue  |
 |-------------|----------|-------------------|--------------------|----------------|
 |         666 |      121 |          44.33328 |         -89.132008 |             20 |
 |         345 |      121 |         33.755787 |        -116.359998 |             30 |
