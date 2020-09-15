@@ -101,14 +101,14 @@ Designing the data required for this project
 
 ## Competition Sample Data:
 
-| Competition   Name 	| Creator User Id 	| Date Created 	| Start date time 	| End date time 	| Quest_Id 	|
+| CompetitionName   	| CreatorUserId   	| DateCreated 	| StartDateTime 	| EndDateTime 	| QuestID 	|
 |-	|-	|-	|-	|-	|-	|
 | Avengers 	| akhil123@gmail.com 	| 9/10/2020 	| 9/11/2020 	| 9/18/2020 	| 115 	|
 | Baahubali 	| abhinav7234@gmail.com 	| 9/10/2020 	| 9/11/2020 	| 9/18/2020 	| 118 	|
 
 ## Clues Sample Data:
 
-| Clue Id 	| Location Id 	| Clue sort Order 	| Clue string 	|
+| ClueId  	| LocationId 	 | ClueSortOrder   	 | ClueString   	|
 |-	|-	|-	|-	|
 | 101 	| 666 	| 1 	| Clue1 	|
 | 102 	| 345 	| 2 	| Clue2 	|
@@ -120,7 +120,7 @@ Designing the data required for this project
 
 ## CompetionTeam mapping data:
 
-| Competition_Id 	| Team_Id 	| datetime_Invited 	| datetime_Accepted 	| datetime_rejected 	|
+| CompetitionId  	| TeamId  	| DateTimeInvited 	| DateTimeAccepted  	| DateTimeRejected 	  |
 |---------------	|----------	|------------------ |------------------	  |------------------	  |
 |  	              |  	        |  	                |  	                  |  	                  |
 | 123 	          | sun123 	  | 9/11/2020 	      | 9/11/2020 	        |  	                  |
