@@ -120,3 +120,15 @@ Designing the data required for this project
 | 312 	          | 1001 	  | 9/11/2020 	      | 9/11/2020 	        |  	                  |
 | 312 	          | 1002 	| 9/11/2020 	      |  	                  |  	                  |
 
+## playerScore Sample Data:
+
+| playerScoreId 	| playerId 	| locationId 	|
+|-	|-	|-	|
+| 111 	| 911 	| 666 	|
+| 222 	| 912 	| 345 	|
+| 333 	| 913 	| 234 	|
+| 444 	| 914 	| 890 	|
+| 555 	| 915 	| 776 	|
+| 666 	| 916 	| 678 	|
+| 777 	| 917 	| 509 	|
+| 888 	| 918 	| 980 	|
