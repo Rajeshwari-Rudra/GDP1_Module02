@@ -10,21 +10,17 @@ Designing the data required for this project
 | Puneeth Annam 	| S538293@nwmissouri.edu 	|
 | Ravichander Reddy Goli 	| S538386@nwmissouri.edu 	|
 
-## Data Flow Chart:
-<img src="Images\Module02_dataFlow.png">
 
-## Samples of ER Diagram:
 
-![Entity Relationship Diagram 1](https://github.com/Rajeshwari-Rudra/GDP1_Module02/blob/master/Images/ModuleERDiagram.png?raw=true)
-
-![Entity Relationship Diagram 2](https://github.com/Rajeshwari-Rudra/GDP1_Module02/blob/master/Images/ERDiagram0.jpeg?raw=true)
+## ER Diagram:
+<img src="Images\final_ERD.jpeg">
 
 ## Cardinality Relations:
 
-- A User is also a player though that person is on a team or not.
-- A team can have maximum of 4 players and minimum of one.
-- A player will belong to only one team at a time.
-- A user(huntmaster) can create any number of quests but all the quests are associated with only huntmaster.
+- A User is also a player only if that person is on a team .
+- A team can have maximum of 4 players.
+- A player will belong to only one team at a time.(But can change to other team after the completion of the competition)
+- A user can create none or any number of quests but all the quests created are associated with users.
 - A quest will have 4 locations but each clue is associated with only one quest.
 - A location will have 3 clues but each clue is associated with only one location.
 - A competition is comprised of quest and can be participated by many teams and each teams can participate in any competition that are open.
@@ -65,10 +61,6 @@ Designing the data required for this project
 | 916       | 1002 | 66773   | Aswin       | 9/10/2020        |                   | 9/10/2020         |                  |
 | 917       | 1001 | 36737   | Raghu       | 9/9/2020         | 9/10/2020         |                   |                  |
 | 918       | 1002 | 35627   | Eswar       | 9/10/2020        | 9/11/2020         |                   |                  |
-| 919       | 1001  | 65677   | Dhinkar     | 9/9/2020         |                   | 9/11/2020         |                  |
-| 920       | 1002 | 56268   | Paule       | 9/10/2020        | 9/12/2020         |                   |                  |
-| 921       | 1002 | 63772   | Nikki       | 9/10/2020        |                   | 9/12/2020         | 9/13/2020        |
-| 922       | 1001  | 67790   | Bhuvan      | 9/10/2020        | 9/11/2020         |                   |                  |
 
 ## Team Sample Data:
 
