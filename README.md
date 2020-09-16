@@ -72,7 +72,7 @@ Designing the data required for this project
 
 ## Quest Sample Data
 
-| QuestID  | QuestName  |  CreatorUserID  |  QuestStartLocationLatitude   |  QuestStartLocationLongitude   | DateCreated  |  DateLastAccessed  |
+| Quest ID | Quest Name | Creator User ID | Quest Start Location Latitude | Quest Start Location Longitude | Date Created | Date Last Accessed |
 |----------|------------|-----------------|-------------------------------|--------------------------------|--------------|--------------------|
 |      121 |    Mask on |            1121 |                     44.968046 |                     -94.420307 |    6/11/2020 |          6/11/2020 |
 |      123 |    Find me |            1122 |                     55.968046 |                     -64.420307 |   10/11/2020 |         13/11/2020 |
@@ -80,7 +80,7 @@ Designing the data required for this project
 
 ## Locations Sample data based on quests
 
-| LocationID  | QuestID  | LocationLatitude  | LocationLongitude  | LocationValue  |
+| Location ID | Quest ID | Location Latitude | Location Longitude | Location value |
 |-------------|----------|-------------------|--------------------|----------------|
 |         666 |      121 |          44.33328 |         -89.132008 |             20 |
 |         345 |      121 |         33.755787 |        -116.359998 |             30 |
