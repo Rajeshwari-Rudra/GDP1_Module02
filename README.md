@@ -70,7 +70,7 @@ Designing the data required for this project
 | 1002 | RoyalChallengers | 67783           | 9/10/2020        | 9/10/2020            |
 |         |                  |                 |                  |                      |
 
-## Quest Sample Data
+## Quest Sample Data:
 
 | QuestID  | QuestName  |  CreatorUserID  |  QuestStartLocationLatitude   |  QuestStartLocationLongitude   | DateCreated  |  DateLastAccessed  |
 |----------|------------|-----------------|-------------------------------|--------------------------------|--------------|--------------------|
@@ -78,7 +78,7 @@ Designing the data required for this project
 |      123 |    Find me |            1122 |                     55.968046 |                     -64.420307 |   10/11/2020 |         13/11/2020 |
 
 
-## Locations Sample data based on quests
+## Locations Sample Data based on quests:
 
 | LocationID  | QuestID  | LocationLatitude  | LocationLongitude  | LocationValue  |
 |-------------|----------|-------------------|--------------------|----------------|
@@ -110,7 +110,7 @@ Designing the data required for this project
 | 106 	| 678 	| 6 	| The refreshment of body and mind through different forms of play |
 
 
-## CompetitionTeam mapping data:
+## CompetitionTeam Mapping Data:
 
 | CompetitionId  	| TeamId  	| DateTimeInvited 	| DateTimeAccepted  	| DateTimeRejected 	  |
 |---------------	|----------	|------------------ |------------------	  |------------------	  |
@@ -120,7 +120,7 @@ Designing the data required for this project
 | 312 	          | 1001 	  | 9/11/2020 	      | 9/11/2020 	        |  	                  |
 | 312 	          | 1002 	| 9/11/2020 	      |  	                  |  	                  |
 
-## playerScore Sample Data:
+## PlayerScore Sample Data:
 
 | PlayerScoreId 	| PlayerId 	| LocationId 	|
 |-	|-	|-	|
