@@ -1,11 +1,11 @@
-CREATE TABLE IF NOT EXISTS Treasure_Hunt_Sample_data (
+CREATE TABLE IF NOT EXISTS Location (
     `locationId` INT,
     `questId` INT,
     `lcationLatitude` NUMERIC(8, 6),
     `locationLongitude` NUMERIC(9, 6),
     `locationValue` INT
 );
-INSERT INTO Treasure_Hunt_Sample_data VALUES
+INSERT INTO Location VALUES
     (666,121,44.33328,-89.132008,20),
     (345,121,33.755787,-116.359998,30),
     (234,121,33.844843,-116.54911,40),
