@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS user (
     `userName` VARCHAR(9) CHARACTER SET utf8,
     `dateCreated` DATETIME,
     `dateLastAccessed` DATETIME
+
 );
 INSERT INTO user VALUES
     ('ravuluri@gmail.com','ravi1432',12346,'ravi','2020-09-08 00:00:00','2020-09-08 00:00:00'),
