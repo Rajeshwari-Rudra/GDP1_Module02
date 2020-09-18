@@ -10,7 +10,8 @@ Designing the data required for this project
 | Puneeth Annam 	| S538293@nwmissouri.edu 	|
 | Ravichander Reddy Goli 	| S538386@nwmissouri.edu 	|
 
-
+## Data Flow Diagram:
+<img src="Images\new_data.png">
 
 ## ER Diagram:
 <img src="Images\final_ERD.jpeg">
