@@ -109,6 +109,13 @@ Designing the data required for this project
 | 104 	| 890 	| 4 	| All the International students meetings and gatherings takes place |
 | 105 	| 776 	| 5 	| The oldest site for any NCAA Division II school. It has capacity of 6,500 |
 | 106 	| 678 	| 6 	| The refreshment of body and mind through different forms of play |
+| 107 	| 234 	| 1 	| The students   play the football here also used as race track. 	|
+|:-:	|:-:	|:-:	|-	|
+| 108 	| 234 	| 2 	| The sport which is   palyed here, our college is champion in intercollege competition. 	|
+| 109 	| 234 	| 3 	| The word starts with   the letter "S" and I am a word of 7 letters. 	|
+| 110 	| 890 	| 1 	| This place is always   open 24/7 in our college. 	|
+| 111 	| 890 	| 2 	| The place is where you get burgers   make you go Hooyah and rhyme with this word. 	|
+| 112 	| 890 	| 3 	| Text Book services   office is located here. 	|
 
 
 ## CompetitionTeam Mapping Data:
