@@ -115,6 +115,12 @@ Designing the data required for this project
 | 110 	| 890 	| 1 	| This place is always   open 24/7 in our college. 	|
 | 111 	| 890 	| 2 	| The place is where you get burgers   make you go Hooyah and rhyme with this word. 	|
 | 112 	| 890 	| 3 	| Text Book services   office is located here. 	|
+| 113 	| 776 	| 1 	| This is a place   you go to get fit. 	|
+| 114 	| 776 	| 2 	| You can also call it   as gym. 	|
+| 115 	| 776 	| 3 	| I start with the word   foster and you come here to stay fit. 	|
+| 116 	| 678 	| 1 	| I am cold but I am   not weather. 	|
+| 117 	| 678 	| 2 	| I am a pond and also   I am cold. 	|
+| 118 	| 678 	| 3 	| The word starts with   the Cold and I have water and a fountain in me. 	|
 
 
 ## CompetitionTeam Mapping Data:
